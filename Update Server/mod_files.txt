@@ -1,1 +1,4 @@
+add Update 1/chr_shadow.model
+add Update 1/chr_shadow_aura.model
+add Update 1/uiMILLER_title_5.dds
 add mod.ini
