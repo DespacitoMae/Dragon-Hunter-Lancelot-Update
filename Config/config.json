@@ -1,0 +1,42 @@
+{
+    "Groups": [
+        {
+            "Name": "Main",
+            "DisplayName": "Boost animations",
+            "Elements":
+            [
+                {
+                    "Name": "IncludeDir0",
+                    "DisplayName": "Boost animations",
+                    "Description": ["Choose which boost animations are used"],
+                    "Type": "AirboostEnum",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "Vanilla"
+                }
+            ]
+        }
+
+    ],
+    "Enums": {
+        "AirboostEnum": [
+            { 
+                "DisplayName": "Vanilla",
+                "Value": "Vanilla",
+                "Description": ["Base Game animations"]
+             },
+             { 
+                "DisplayName": "Skating",
+                "Value": "Skating",
+                "Description": ["skate animations buy Moke_2140."]
+			 },
+             { 
+                "DisplayName": "Forceful",
+                "Value": "Forceful",
+                "Description": ["Forceful animations by MANGOM1LK."]
+             }
+			 
+        ]
+    },
+    "IniFile":  "mod.ini"
+}
