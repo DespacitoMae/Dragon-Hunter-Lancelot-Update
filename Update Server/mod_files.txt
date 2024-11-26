@@ -1,3 +1,4 @@
+add Config/config.json
 add Forceful/chr_shadow@ball_loop.anm.pxd
 add Forceful/chr_shadow@boost_jump_loop.anm.pxd
 add Forceful/chr_shadow@boost_loop.anm.pxd
@@ -15,5 +16,4 @@ add Forceful/chr_shadow@stomp_loop.anm.pxd
 add Skating/chr_shadow@boost_loop.anm.pxd
 add Skating/chr_shadow@boost_l_loop.anm.pxd
 add Skating/chr_shadow@boost_r_loop.anm.pxd
-add Config/config.json
 add mod.ini
