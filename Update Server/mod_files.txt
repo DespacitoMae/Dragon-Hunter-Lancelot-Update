@@ -1,4 +1,18 @@
-add Update 1/chr_shadow.model
-add Update 1/chr_shadow_aura.model
-add Update 1/uiMILLER_title_5.dds
+add Forceful/chr_shadow@ball_loop.anm.pxd
+add Forceful/chr_shadow@boost_jump_loop.anm.pxd
+add Forceful/chr_shadow@boost_loop.anm.pxd
+add Forceful/chr_shadow@dashring.anm.pxd
+add Forceful/chr_shadow@dash_loop.anm.pxd
+add Forceful/chr_shadow@dash_l_loop.anm.pxd
+add Forceful/chr_shadow@dash_r_loop.anm.pxd
+add Forceful/chr_shadow@grind_landing.anm.pxd
+add Forceful/chr_shadow@idle_loop.anm.pxd
+add Forceful/chr_shadow@jumpboard.anm.pxd
+add Forceful/chr_shadow@jumpboard_loop.anm.pxd
+add Forceful/chr_shadow@jump_s.anm.pxd
+add Forceful/chr_shadow@springjump_loop.anm.pxd
+add Forceful/chr_shadow@stomp_loop.anm.pxd
+add Skating/chr_shadow@boost_loop.anm.pxd
+add Skating/chr_shadow@boost_l_loop.anm.pxd
+add Skating/chr_shadow@boost_r_loop.anm.pxd
 add mod.ini
